@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+data/out/*.ndjson
+.idea/
+.vscode/
+.env

@@ -1,0 +1,14 @@
+{
+  "index_patterns": [
+    "ecs-auto-*"
+  ],
+  "template": {
+    "mappings": {
+      "dynamic": true
+    }
+  },
+  "priority": 1,
+  "_meta": {
+    "description": "Basic ECS-friendly template"
+  }
+}

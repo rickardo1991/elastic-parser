@@ -1,0 +1,8 @@
+required:
+  - "@timestamp"
+  - "event.kind"
+  - "ecs.version"
+suggested:
+  - "event.category"
+  - "host.hostname"
+  - "source.ip"
